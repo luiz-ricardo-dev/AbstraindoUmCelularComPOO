@@ -1,0 +1,14 @@
+C:\Users\usuario\Desktop\Projetos\AbstraindoUmCelularComPOO\bin\Debug\net8.0\AbstraindoUmCelularComPOO.exe
+C:\Users\usuario\Desktop\Projetos\AbstraindoUmCelularComPOO\bin\Debug\net8.0\AbstraindoUmCelularComPOO.deps.json
+C:\Users\usuario\Desktop\Projetos\AbstraindoUmCelularComPOO\bin\Debug\net8.0\AbstraindoUmCelularComPOO.runtimeconfig.json
+C:\Users\usuario\Desktop\Projetos\AbstraindoUmCelularComPOO\bin\Debug\net8.0\AbstraindoUmCelularComPOO.dll
+C:\Users\usuario\Desktop\Projetos\AbstraindoUmCelularComPOO\bin\Debug\net8.0\AbstraindoUmCelularComPOO.pdb
+C:\Users\usuario\Desktop\Projetos\AbstraindoUmCelularComPOO\obj\Debug\net8.0\AbstraindoUmCelularComPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\Projetos\AbstraindoUmCelularComPOO\obj\Debug\net8.0\AbstraindoUmCelularComPOO.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\Projetos\AbstraindoUmCelularComPOO\obj\Debug\net8.0\AbstraindoUmCelularComPOO.AssemblyInfo.cs
+C:\Users\usuario\Desktop\Projetos\AbstraindoUmCelularComPOO\obj\Debug\net8.0\AbstraindoUmCelularComPOO.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Projetos\AbstraindoUmCelularComPOO\obj\Debug\net8.0\AbstraindoUmCelularComPOO.dll
+C:\Users\usuario\Desktop\Projetos\AbstraindoUmCelularComPOO\obj\Debug\net8.0\refint\AbstraindoUmCelularComPOO.dll
+C:\Users\usuario\Desktop\Projetos\AbstraindoUmCelularComPOO\obj\Debug\net8.0\AbstraindoUmCelularComPOO.pdb
+C:\Users\usuario\Desktop\Projetos\AbstraindoUmCelularComPOO\obj\Debug\net8.0\AbstraindoUmCelularComPOO.genruntimeconfig.cache
+C:\Users\usuario\Desktop\Projetos\AbstraindoUmCelularComPOO\obj\Debug\net8.0\ref\AbstraindoUmCelularComPOO.dll
